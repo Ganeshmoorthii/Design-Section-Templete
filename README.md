@@ -1,6 +1,7 @@
 # Design-Section-Templete
 
-![Screenshot 2024-06-21 173329](Screenshot%202024-06-21%20173329.png)
+![Screenshot 2024-06-21 222957](Screenshot%202024-06-21%20222957.png)
+
 
 This repository contains the source code for a responsive web page designed to highlight exceptional user experiences across various mediums. The page is built using HTML and CSS and is responsive to different screen sizes.
 
